@@ -1,1 +1,1 @@
-Practice with basic html and javascript throught the tech academy
+Practice with basic html and javascript through the tech academy
